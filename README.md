@@ -79,12 +79,7 @@ We aimed to answer strategic questions using data-driven insights and intuitive 
 
 wavecon-telecom-5g-impact-analysis/ ├── Main KPI.png ├── Market.png ├── Plan.png └── README.md
 
-
 ---
-
-
-**Ekanshi Saxena**  
-🎓 Aspiring Data Analyst   
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)
 - 💻 [GitHub](https://github.com/its-ekanshi)
@@ -92,5 +87,3 @@ wavecon-telecom-5g-impact-analysis/ ├── Main KPI.png ├── Market.png 
 ---
 
 > ✨ *Turning telecom data into powerful insights — one dashboard at a time!*
-
-
